@@ -1,5 +1,5 @@
 
-##Para executar o projeto, siga os passos a seguir:
+## Para executar o projeto, siga os passos a seguir:
 
 - instalar o `node.js` (Projeto contruido com a versão `10.15.0`, recomendo essa versão)
 - clone o projeto
